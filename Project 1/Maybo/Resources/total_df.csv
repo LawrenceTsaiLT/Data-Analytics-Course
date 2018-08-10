@@ -1,0 +1,1201 @@
+,Year,County,Total Population,Total Crime,Classification,Orig_DF
+0,2012,adams,19050,1743,Micropolitan,Violence + Murder
+1,2013,adams,19200,1850,Micropolitan,Violence + Murder
+2,2014,adams,19400,1850,Micropolitan,Violence + Murder
+3,2015,adams,19410,1480,Micropolitan,Violence + Murder
+4,2016,adams,19510,1250,Micropolitan,Violence + Murder
+5,2012,asotin,21700,1251,Metropolitan,Violence + Murder
+6,2013,asotin,21800,1368,Metropolitan,Violence + Murder
+7,2014,asotin,21950,1225,Metropolitan,Violence + Murder
+8,2015,asotin,22010,1379,Metropolitan,Violence + Murder
+9,2016,asotin,22150,1376,Metropolitan,Violence + Murder
+10,2012,benton,180000,10032,Metropolitan,Violence + Murder
+11,2013,benton,183400,10099,Metropolitan,Violence + Murder
+12,2014,benton,186500,9923,Metropolitan,Violence + Murder
+13,2015,benton,188590,9712,Metropolitan,Violence + Murder
+14,2016,benton,190500,9776,Metropolitan,Violence + Murder
+15,2012,chelan,73200,1216,Metropolitan,Violence + Murder
+16,2013,chelan,73600,3296,Metropolitan,Violence + Murder
+17,2014,chelan,74300,2799,Metropolitan,Violence + Murder
+18,2015,chelan,75030,3175,Metropolitan,Violence + Murder
+19,2016,chelan,75910,3264,Metropolitan,Violence + Murder
+20,2012,clallam,72000,4700,Micropolitan,Violence + Murder
+21,2013,clallam,72350,4660,Micropolitan,Violence + Murder
+22,2014,clallam,72500,4283,Micropolitan,Violence + Murder
+23,2015,clallam,72650,4582,Micropolitan,Violence + Murder
+24,2016,clallam,73410,3999,Micropolitan,Violence + Murder
+25,2012,clark,431250,20558,Metropolitan,Violence + Murder
+26,2013,clark,435500,18478,Metropolitan,Violence + Murder
+27,2013,garfield,2250,138,Noncore,Violence + Murder
+28,2014,clark,442800,17305,Metropolitan,Violence + Murder
+29,2015,clark,451820,19632,Metropolitan,Violence + Murder
+30,2016,clark,461010,19209,Metropolitan,Violence + Murder
+31,2012,columbia,4100,256,Metropolitan,Violence + Murder
+32,2013,columbia,4100,297,Metropolitan,Violence + Murder
+33,2014,columbia,4080,127,Metropolitan,Violence + Murder
+34,2015,columbia,4090,82,Metropolitan,Violence + Murder
+35,2016,columbia,4050,203,Metropolitan,Violence + Murder
+36,2012,cowlitz,103050,7398,Metropolitan,Violence + Murder
+37,2013,cowlitz,103300,8040,Metropolitan,Violence + Murder
+38,2014,cowlitz,103700,7117,Metropolitan,Violence + Murder
+39,2015,cowlitz,104280,6626,Metropolitan,Violence + Murder
+40,2016,cowlitz,104850,6691,Metropolitan,Violence + Murder
+41,2012,douglas,38900,1459,Metropolitan,Violence + Murder
+42,2013,douglas,39280,1555,Metropolitan,Violence + Murder
+43,2014,douglas,39700,1478,Metropolitan,Violence + Murder
+44,2015,douglas,39990,1602,Metropolitan,Violence + Murder
+45,2016,douglas,40720,1563,Metropolitan,Violence + Murder
+46,2012,garfield,2250,109,Noncore,Violence + Murder
+47,2012,ferry,7650,109,Noncore,Violence + Murder
+48,2013,ferry,7650,119,Noncore,Violence + Murder
+49,2014,ferry,7660,130,Noncore,Violence + Murder
+50,2015,ferry,7710,101,Noncore,Violence + Murder
+51,2016,ferry,7700,21,Noncore,Violence + Murder
+52,2012,franklin,82500,4418,Metropolitan,Violence + Murder
+53,2013,franklin,84800,4441,Metropolitan,Violence + Murder
+54,2014,franklin,86600,3981,Metropolitan,Violence + Murder
+55,2015,franklin,87150,4076,Metropolitan,Violence + Murder
+56,2016,franklin,88670,4288,Metropolitan,Violence + Murder
+57,2014,garfield,2240,104,Noncore,Violence + Murder
+58,2015,garfield,2260,140,Noncore,Violence + Murder
+59,2016,garfield,2200,133,Noncore,Violence + Murder
+60,2012,grant,91000,6720,Micropolitan,Violence + Murder
+61,2013,grant,91800,7075,Micropolitan,Violence + Murder
+62,2014,grant,92900,6699,Micropolitan,Violence + Murder
+63,2015,grant,93930,6761,Micropolitan,Violence + Murder
+64,2016,grant,94610,6614,Micropolitan,Violence + Murder
+65,2012,grays harbor,73150,2875,Micropolitan,Violence + Murder
+66,2013,grays harbor,73200,4098,Micropolitan,Violence + Murder
+67,2014,grays harbor,73300,3882,Micropolitan,Violence + Murder
+68,2015,grays harbor,73110,4210,Micropolitan,Violence + Murder
+69,2016,grays harbor,72820,3782,Micropolitan,Violence + Murder
+70,2012,island,79350,2987,Micropolitan,Violence + Murder
+71,2013,island,79700,2725,Micropolitan,Violence + Murder
+72,2014,island,80000,2359,Micropolitan,Violence + Murder
+73,2015,island,80600,1824,Micropolitan,Violence + Murder
+74,2016,island,82910,1935,Micropolitan,Violence + Murder
+75,2012,jefferson,30175,1486,Noncore,Violence + Murder
+76,2013,jefferson,30275,1353,Noncore,Violence + Murder
+77,2014,jefferson,30700,1501,Noncore,Violence + Murder
+78,2015,jefferson,30880,1168,Noncore,Violence + Murder
+79,2016,jefferson,31090,1084,Noncore,Violence + Murder
+80,2012,king,1957000,87516,Metropolitan,Violence + Murder
+81,2013,king,1981900,103792,Metropolitan,Violence + Murder
+82,2014,king,2017250,126410,Metropolitan,Violence + Murder
+83,2015,king,2052800,129742,Metropolitan,Violence + Murder
+84,2016,king,2105100,134489,Metropolitan,Violence + Murder
+85,2012,kitsap,254500,14145,Metropolitan,Violence + Murder
+86,2013,kitsap,254000,13699,Metropolitan,Violence + Murder
+87,2014,kitsap,255900,13529,Metropolitan,Violence + Murder
+88,2015,kitsap,258200,13282,Metropolitan,Violence + Murder
+89,2016,kitsap,262590,13305,Metropolitan,Violence + Murder
+90,2012,kittitas,41500,2718,Micropolitan,Violence + Murder
+91,2013,kittitas,41900,2652,Micropolitan,Violence + Murder
+92,2014,kittitas,42100,2352,Micropolitan,Violence + Murder
+93,2015,kittitas,42670,2145,Micropolitan,Violence + Murder
+94,2016,kittitas,43710,1995,Micropolitan,Violence + Murder
+95,2012,klickitat,20600,662,Noncore,Violence + Murder
+96,2013,klickitat,20700,679,Noncore,Violence + Murder
+97,2014,klickitat,20850,581,Noncore,Violence + Murder
+98,2015,klickitat,21000,744,Noncore,Violence + Murder
+99,2016,klickitat,21270,547,Noncore,Violence + Murder
+100,2012,lewis,76300,4064,Micropolitan,Violence + Murder
+101,2013,lewis,76200,3684,Micropolitan,Violence + Murder
+102,2014,lewis,76300,3923,Micropolitan,Violence + Murder
+103,2015,lewis,76660,3924,Micropolitan,Violence + Murder
+104,2016,lewis,76890,4246,Micropolitan,Violence + Murder
+105,2012,lincoln,10675,374,Noncore,Violence + Murder
+106,2013,lincoln,10675,290,Noncore,Violence + Murder
+107,2014,lincoln,10700,302,Noncore,Violence + Murder
+108,2015,lincoln,10720,312,Noncore,Violence + Murder
+109,2016,lincoln,10640,320,Noncore,Violence + Murder
+110,2012,mason,61450,4160,Micropolitan,Violence + Murder
+111,2013,mason,61800,3493,Micropolitan,Violence + Murder
+112,2014,mason,62000,3434,Micropolitan,Violence + Murder
+113,2015,mason,62200,3147,Micropolitan,Violence + Murder
+114,2016,mason,62320,2752,Micropolitan,Violence + Murder
+115,2012,okanogan,41425,1601,Noncore,Violence + Murder
+116,2013,okanogan,41500,1663,Noncore,Violence + Murder
+117,2014,okanogan,41700,1546,Noncore,Violence + Murder
+118,2015,okanogan,41860,1356,Noncore,Violence + Murder
+119,2016,okanogan,41730,1155,Noncore,Violence + Murder
+120,2012,pacific,20970,731,Noncore,Violence + Murder
+121,2013,pacific,21000,793,Noncore,Violence + Murder
+122,2014,pacific,21100,702,Noncore,Violence + Murder
+123,2015,pacific,21210,582,Noncore,Violence + Murder
+124,2016,pacific,21180,526,Noncore,Violence + Murder
+125,2012,pend oreille,13100,919,Metropolitan,Violence + Murder
+126,2013,pend oreille,13150,951,Metropolitan,Violence + Murder
+127,2014,pend oreille,13210,764,Metropolitan,Violence + Murder
+128,2015,pend oreille,13240,631,Metropolitan,Violence + Murder
+129,2016,pend oreille,13290,548,Metropolitan,Violence + Murder
+130,2012,pierce,808200,65730,Metropolitan,Violence + Murder
+131,2013,pierce,814500,66569,Metropolitan,Violence + Murder
+132,2014,pierce,821300,64018,Metropolitan,Violence + Murder
+133,2015,pierce,830120,64036,Metropolitan,Violence + Murder
+134,2016,pierce,844490,67397,Metropolitan,Violence + Murder
+135,2012,san juan,15925,365,Noncore,Violence + Murder
+136,2013,san juan,16000,350,Noncore,Violence + Murder
+137,2014,san juan,16100,261,Noncore,Violence + Murder
+138,2015,san juan,16180,345,Noncore,Violence + Murder
+139,2016,san juan,16320,309,Noncore,Violence + Murder
+140,2012,skagit,117950,9428,Metropolitan,Violence + Murder
+141,2013,skagit,118600,9433,Metropolitan,Violence + Murder
+142,2014,skagit,119500,8305,Metropolitan,Violence + Murder
+143,2015,skagit,120620,9301,Metropolitan,Violence + Murder
+144,2016,skagit,122270,8578,Metropolitan,Violence + Murder
+145,2012,skamania,11275,298,Metropolitan,Violence + Murder
+146,2013,skamania,11300,278,Metropolitan,Violence + Murder
+147,2014,skamania,11370,256,Metropolitan,Violence + Murder
+148,2015,skamania,11430,236,Metropolitan,Violence + Murder
+149,2016,skamania,11500,171,Metropolitan,Violence + Murder
+150,2012,snohomish,722900,3392,Metropolitan,Violence + Murder
+151,2013,snohomish,730500,4994,Metropolitan,Violence + Murder
+152,2014,snohomish,741000,5657,Metropolitan,Violence + Murder
+153,2015,snohomish,757600,11335,Metropolitan,Violence + Murder
+154,2016,snohomish,772860,41566,Metropolitan,Violence + Murder
+155,2012,spokane,475600,1548,Metropolitan,Violence + Murder
+156,2013,spokane,480000,1510,Metropolitan,Violence + Murder
+157,2014,spokane,484500,1546,Metropolitan,Violence + Murder
+158,2015,spokane,488310,1579,Metropolitan,Violence + Murder
+159,2016,spokane,492530,18489,Metropolitan,Violence + Murder
+160,2012,state,6817770,301233,,Violence + Murder
+161,2013,state,6882400,324057,,Violence + Murder
+162,2014,state,6968170,349880,,Violence + Murder
+163,2015,state,7061410,362040,,Violence + Murder
+164,2016,state,7183700,415368,,Violence + Murder
+165,2012,stevens,43700,1802,Metropolitan,Violence + Murder
+166,2013,stevens,43800,1615,Metropolitan,Violence + Murder
+167,2014,stevens,43900,1751,Metropolitan,Violence + Murder
+168,2015,stevens,44030,1707,Metropolitan,Violence + Murder
+169,2016,stevens,44100,1476,Metropolitan,Violence + Murder
+170,2012,thurston,256800,5726,Metropolitan,Violence + Murder
+171,2013,thurston,260100,5255,Metropolitan,Violence + Murder
+172,2014,thurston,264000,13956,Metropolitan,Violence + Murder
+173,2015,thurston,267410,15033,Metropolitan,Violence + Murder
+174,2016,thurston,272690,15326,Metropolitan,Violence + Murder
+175,2012,wahkiakum,4025,50,Noncore,Violence + Murder
+176,2013,wahkiakum,4020,60,Noncore,Violence + Murder
+177,2014,wahkiakum,4010,100,Noncore,Violence + Murder
+178,2015,wahkiakum,3980,142,Noncore,Violence + Murder
+179,2016,wahkiakum,4000,131,Noncore,Violence + Murder
+180,2012,walla walla,59100,1199,Metropolitan,Violence + Murder
+181,2013,walla walla,59500,3876,Metropolitan,Violence + Murder
+182,2014,walla walla,60150,3949,Metropolitan,Violence + Murder
+183,2015,walla walla,60650,3947,Metropolitan,Violence + Murder
+184,2016,walla walla,60730,4038,Metropolitan,Violence + Murder
+185,2012,whatcom,203500,10075,Metropolitan,Violence + Murder
+186,2013,whatcom,205800,10065,Metropolitan,Violence + Murder
+187,2014,whatcom,207600,13503,Metropolitan,Violence + Murder
+188,2015,whatcom,209790,12456,Metropolitan,Violence + Murder
+189,2016,whatcom,212540,13194,Metropolitan,Violence + Murder
+190,2012,whitman,45950,1827,Micropolitan,Violence + Murder
+191,2013,whitman,46000,1563,Micropolitan,Violence + Murder
+192,2014,whitman,46500,1760,Micropolitan,Violence + Murder
+193,2015,whitman,47250,1497,Micropolitan,Violence + Murder
+194,2016,whitman,47940,1157,Micropolitan,Violence + Murder
+195,2012,yakima,246000,15586,Metropolitan,Violence + Murder
+196,2013,yakima,247250,17201,Metropolitan,Violence + Murder
+197,2014,yakima,248800,16512,Metropolitan,Violence + Murder
+198,2015,yakima,249970,18011,Metropolitan,Violence + Murder
+199,2016,yakima,250900,18465,Metropolitan,Violence + Murder
+0,2012,adams,19050,697,Micropolitan,Robbery
+1,2013,adams,19200,724,Micropolitan,Robbery
+2,2014,adams,19400,703,Micropolitan,Robbery
+3,2015,adams,19410,634,Micropolitan,Robbery
+4,2016,adams,19510,499,Micropolitan,Robbery
+5,2012,asotin,21700,662,Metropolitan,Robbery
+6,2013,asotin,21800,725,Metropolitan,Robbery
+7,2014,asotin,21950,568,Metropolitan,Robbery
+8,2015,asotin,22010,759,Metropolitan,Robbery
+9,2016,asotin,22150,721,Metropolitan,Robbery
+10,2012,benton,180000,4455,Metropolitan,Robbery
+11,2013,benton,183400,4778,Metropolitan,Robbery
+12,2014,benton,186500,4808,Metropolitan,Robbery
+13,2015,benton,188590,4641,Metropolitan,Robbery
+14,2016,benton,190500,4844,Metropolitan,Robbery
+15,2012,chelan,73200,482,Metropolitan,Robbery
+16,2013,chelan,73600,1714,Metropolitan,Robbery
+17,2014,chelan,74300,1454,Metropolitan,Robbery
+18,2015,chelan,75030,1648,Metropolitan,Robbery
+19,2016,chelan,75910,1726,Metropolitan,Robbery
+20,2012,clallam,72000,1988,Micropolitan,Robbery
+21,2013,clallam,72350,2098,Micropolitan,Robbery
+22,2014,clallam,72500,1924,Micropolitan,Robbery
+23,2015,clallam,72650,2124,Micropolitan,Robbery
+24,2016,clallam,73410,1738,Micropolitan,Robbery
+25,2012,clark,431250,10048,Metropolitan,Robbery
+26,2013,clark,435500,9358,Metropolitan,Robbery
+27,2013,garfield,2250,52,Noncore,Robbery
+28,2014,clark,442800,8578,Metropolitan,Robbery
+29,2015,clark,451820,10446,Metropolitan,Robbery
+30,2016,clark,461010,9929,Metropolitan,Robbery
+31,2012,columbia,4100,120,Metropolitan,Robbery
+32,2013,columbia,4100,166,Metropolitan,Robbery
+33,2014,columbia,4080,89,Metropolitan,Robbery
+34,2015,columbia,4090,51,Metropolitan,Robbery
+35,2016,columbia,4050,116,Metropolitan,Robbery
+36,2012,cowlitz,103050,3449,Metropolitan,Robbery
+37,2013,cowlitz,103300,3797,Metropolitan,Robbery
+38,2014,cowlitz,103700,3598,Metropolitan,Robbery
+39,2015,cowlitz,104280,3255,Metropolitan,Robbery
+40,2016,cowlitz,104850,3390,Metropolitan,Robbery
+41,2012,douglas,38900,693,Metropolitan,Robbery
+42,2013,douglas,39280,833,Metropolitan,Robbery
+43,2014,douglas,39700,795,Metropolitan,Robbery
+44,2015,douglas,39990,765,Metropolitan,Robbery
+45,2016,douglas,40720,828,Metropolitan,Robbery
+46,2012,garfield,2250,42,Noncore,Robbery
+47,2012,ferry,7650,36,Noncore,Robbery
+48,2013,ferry,7650,35,Noncore,Robbery
+49,2014,ferry,7660,29,Noncore,Robbery
+50,2015,ferry,7710,21,Noncore,Robbery
+51,2016,ferry,7700,4,Noncore,Robbery
+52,2012,franklin,82500,1858,Metropolitan,Robbery
+53,2013,franklin,84800,1857,Metropolitan,Robbery
+54,2014,franklin,86600,1747,Metropolitan,Robbery
+55,2015,franklin,87150,1713,Metropolitan,Robbery
+56,2016,franklin,88670,1921,Metropolitan,Robbery
+57,2014,garfield,2240,30,Noncore,Robbery
+58,2015,garfield,2260,40,Noncore,Robbery
+59,2016,garfield,2200,34,Noncore,Robbery
+60,2012,grant,91000,3073,Micropolitan,Robbery
+61,2013,grant,91800,3470,Micropolitan,Robbery
+62,2014,grant,92900,3174,Micropolitan,Robbery
+63,2015,grant,93930,3263,Micropolitan,Robbery
+64,2016,grant,94610,3172,Micropolitan,Robbery
+65,2012,grays harbor,73150,1363,Micropolitan,Robbery
+66,2013,grays harbor,73200,1925,Micropolitan,Robbery
+67,2014,grays harbor,73300,1699,Micropolitan,Robbery
+68,2015,grays harbor,73110,1703,Micropolitan,Robbery
+69,2016,grays harbor,72820,1583,Micropolitan,Robbery
+70,2012,island,79350,1250,Micropolitan,Robbery
+71,2013,island,79700,1163,Micropolitan,Robbery
+72,2014,island,80000,977,Micropolitan,Robbery
+73,2015,island,80600,776,Micropolitan,Robbery
+74,2016,island,82910,773,Micropolitan,Robbery
+75,2012,jefferson,30175,627,Noncore,Robbery
+76,2013,jefferson,30275,606,Noncore,Robbery
+77,2014,jefferson,30700,642,Noncore,Robbery
+78,2015,jefferson,30880,465,Noncore,Robbery
+79,2016,jefferson,31090,475,Noncore,Robbery
+80,2012,king,1957000,49162,Metropolitan,Robbery
+81,2013,king,1981900,60869,Metropolitan,Robbery
+82,2014,king,2017250,77891,Metropolitan,Robbery
+83,2015,king,2052800,76241,Metropolitan,Robbery
+84,2016,king,2105100,80206,Metropolitan,Robbery
+85,2012,kitsap,254500,7218,Metropolitan,Robbery
+86,2013,kitsap,254000,6725,Metropolitan,Robbery
+87,2014,kitsap,255900,6923,Metropolitan,Robbery
+88,2015,kitsap,258200,6603,Metropolitan,Robbery
+89,2016,kitsap,262590,6650,Metropolitan,Robbery
+90,2012,kittitas,41500,1345,Micropolitan,Robbery
+91,2013,kittitas,41900,1132,Micropolitan,Robbery
+92,2014,kittitas,42100,1066,Micropolitan,Robbery
+93,2015,kittitas,42670,927,Micropolitan,Robbery
+94,2016,kittitas,43710,975,Micropolitan,Robbery
+95,2012,klickitat,20600,252,Noncore,Robbery
+96,2013,klickitat,20700,251,Noncore,Robbery
+97,2014,klickitat,20850,229,Noncore,Robbery
+98,2015,klickitat,21000,295,Noncore,Robbery
+99,2016,klickitat,21270,202,Noncore,Robbery
+100,2012,lewis,76300,1738,Micropolitan,Robbery
+101,2013,lewis,76200,1593,Micropolitan,Robbery
+102,2014,lewis,76300,1783,Micropolitan,Robbery
+103,2015,lewis,76660,1759,Micropolitan,Robbery
+104,2016,lewis,76890,2060,Micropolitan,Robbery
+105,2012,lincoln,10675,154,Noncore,Robbery
+106,2013,lincoln,10675,120,Noncore,Robbery
+107,2014,lincoln,10700,131,Noncore,Robbery
+108,2015,lincoln,10720,142,Noncore,Robbery
+109,2016,lincoln,10640,133,Noncore,Robbery
+110,2012,mason,61450,2005,Micropolitan,Robbery
+111,2013,mason,61800,1631,Micropolitan,Robbery
+112,2014,mason,62000,1666,Micropolitan,Robbery
+113,2015,mason,62200,1582,Micropolitan,Robbery
+114,2016,mason,62320,1442,Micropolitan,Robbery
+115,2012,okanogan,41425,591,Noncore,Robbery
+116,2013,okanogan,41500,760,Noncore,Robbery
+117,2014,okanogan,41700,664,Noncore,Robbery
+118,2015,okanogan,41860,598,Noncore,Robbery
+119,2016,okanogan,41730,476,Noncore,Robbery
+120,2012,pacific,20970,274,Noncore,Robbery
+121,2013,pacific,21000,280,Noncore,Robbery
+122,2014,pacific,21100,283,Noncore,Robbery
+123,2015,pacific,21210,220,Noncore,Robbery
+124,2016,pacific,21180,221,Noncore,Robbery
+125,2012,pend oreille,13100,353,Metropolitan,Robbery
+126,2013,pend oreille,13150,365,Metropolitan,Robbery
+127,2014,pend oreille,13210,285,Metropolitan,Robbery
+128,2015,pend oreille,13240,227,Metropolitan,Robbery
+129,2016,pend oreille,13290,228,Metropolitan,Robbery
+130,2012,pierce,808200,30681,Metropolitan,Robbery
+131,2013,pierce,814500,32514,Metropolitan,Robbery
+132,2014,pierce,821300,31451,Metropolitan,Robbery
+133,2015,pierce,830120,31609,Metropolitan,Robbery
+134,2016,pierce,844490,34104,Metropolitan,Robbery
+135,2012,san juan,15925,160,Noncore,Robbery
+136,2013,san juan,16000,165,Noncore,Robbery
+137,2014,san juan,16100,140,Noncore,Robbery
+138,2015,san juan,16180,192,Noncore,Robbery
+139,2016,san juan,16320,173,Noncore,Robbery
+140,2012,skagit,117950,4253,Metropolitan,Robbery
+141,2013,skagit,118600,4703,Metropolitan,Robbery
+142,2014,skagit,119500,4102,Metropolitan,Robbery
+143,2015,skagit,120620,4484,Metropolitan,Robbery
+144,2016,skagit,122270,4187,Metropolitan,Robbery
+145,2012,skamania,11275,85,Metropolitan,Robbery
+146,2013,skamania,11300,81,Metropolitan,Robbery
+147,2014,skamania,11370,97,Metropolitan,Robbery
+148,2015,skamania,11430,107,Metropolitan,Robbery
+149,2016,skamania,11500,53,Metropolitan,Robbery
+150,2012,snohomish,722900,1714,Metropolitan,Robbery
+151,2013,snohomish,730500,2739,Metropolitan,Robbery
+152,2014,snohomish,741000,3517,Metropolitan,Robbery
+153,2015,snohomish,757600,6547,Metropolitan,Robbery
+154,2016,snohomish,772860,22561,Metropolitan,Robbery
+155,2012,spokane,475600,779,Metropolitan,Robbery
+156,2013,spokane,480000,721,Metropolitan,Robbery
+157,2014,spokane,484500,755,Metropolitan,Robbery
+158,2015,spokane,488310,778,Metropolitan,Robbery
+159,2016,spokane,492530,8892,Metropolitan,Robbery
+160,2012,state,6817770,148982,,Robbery
+161,2013,state,6882400,166443,,Robbery
+162,2014,state,6968170,186992,,Robbery
+163,2015,state,7061410,190404,,Robbery
+164,2016,state,7183700,220813,,Robbery
+165,2012,stevens,43700,665,Metropolitan,Robbery
+166,2013,stevens,43800,593,Metropolitan,Robbery
+167,2014,stevens,43900,628,Metropolitan,Robbery
+168,2015,stevens,44030,573,Metropolitan,Robbery
+169,2016,stevens,44100,483,Metropolitan,Robbery
+170,2012,thurston,256800,2740,Metropolitan,Robbery
+171,2013,thurston,260100,2235,Metropolitan,Robbery
+172,2014,thurston,264000,7036,Metropolitan,Robbery
+173,2015,thurston,267410,7791,Metropolitan,Robbery
+174,2016,thurston,272690,8017,Metropolitan,Robbery
+175,2012,wahkiakum,4025,14,Noncore,Robbery
+176,2013,wahkiakum,4020,19,Noncore,Robbery
+177,2014,wahkiakum,4010,27,Noncore,Robbery
+178,2015,wahkiakum,3980,43,Noncore,Robbery
+179,2016,wahkiakum,4000,39,Noncore,Robbery
+180,2012,walla walla,59100,595,Metropolitan,Robbery
+181,2013,walla walla,59500,2003,Metropolitan,Robbery
+182,2014,walla walla,60150,1981,Metropolitan,Robbery
+183,2015,walla walla,60650,2058,Metropolitan,Robbery
+184,2016,walla walla,60730,2020,Metropolitan,Robbery
+185,2012,whatcom,203500,5265,Metropolitan,Robbery
+186,2013,whatcom,205800,5647,Metropolitan,Robbery
+187,2014,whatcom,207600,7322,Metropolitan,Robbery
+188,2015,whatcom,209790,6763,Metropolitan,Robbery
+189,2016,whatcom,212540,7131,Metropolitan,Robbery
+190,2012,whitman,45950,854,Micropolitan,Robbery
+191,2013,whitman,46000,710,Micropolitan,Robbery
+192,2014,whitman,46500,807,Micropolitan,Robbery
+193,2015,whitman,47250,599,Micropolitan,Robbery
+194,2016,whitman,47940,428,Micropolitan,Robbery
+195,2012,yakima,246000,7242,Metropolitan,Robbery
+196,2013,yakima,247250,7286,Metropolitan,Robbery
+197,2014,yakima,248800,7393,Metropolitan,Robbery
+198,2015,yakima,249970,7962,Metropolitan,Robbery
+199,2016,yakima,250900,8379,Metropolitan,Robbery
+0,2012,adams,19050,1609,Micropolitan,Properties
+1,2013,adams,19200,1685,Micropolitan,Properties
+2,2014,adams,19400,1609,Micropolitan,Properties
+3,2015,adams,19410,1332,Micropolitan,Properties
+4,2016,adams,19510,1037,Micropolitan,Properties
+5,2012,asotin,21700,1066,Metropolitan,Properties
+6,2013,asotin,21800,1219,Metropolitan,Properties
+7,2014,asotin,21950,1097,Metropolitan,Properties
+8,2015,asotin,22010,1173,Metropolitan,Properties
+9,2016,asotin,22150,1202,Metropolitan,Properties
+10,2012,benton,180000,8392,Metropolitan,Properties
+11,2013,benton,183400,8226,Metropolitan,Properties
+12,2014,benton,186500,8128,Metropolitan,Properties
+13,2015,benton,188590,7735,Metropolitan,Properties
+14,2016,benton,190500,7950,Metropolitan,Properties
+15,2012,chelan,73200,1051,Metropolitan,Properties
+16,2013,chelan,73600,2722,Metropolitan,Properties
+17,2014,chelan,74300,2377,Metropolitan,Properties
+18,2015,chelan,75030,2691,Metropolitan,Properties
+19,2016,chelan,75910,2716,Metropolitan,Properties
+20,2012,clallam,72000,4202,Micropolitan,Properties
+21,2013,clallam,72350,4025,Micropolitan,Properties
+22,2014,clallam,72500,3642,Micropolitan,Properties
+23,2015,clallam,72650,3937,Micropolitan,Properties
+24,2016,clallam,73410,3284,Micropolitan,Properties
+25,2012,clark,431250,18270,Metropolitan,Properties
+26,2013,clark,435500,16149,Metropolitan,Properties
+27,2013,garfield,2250,79,Noncore,Properties
+28,2014,clark,442800,14698,Metropolitan,Properties
+29,2015,clark,451820,17120,Metropolitan,Properties
+30,2016,clark,461010,16550,Metropolitan,Properties
+31,2012,columbia,4100,268,Metropolitan,Properties
+32,2013,columbia,4100,301,Metropolitan,Properties
+33,2014,columbia,4080,165,Metropolitan,Properties
+34,2015,columbia,4090,109,Metropolitan,Properties
+35,2016,columbia,4050,204,Metropolitan,Properties
+36,2012,cowlitz,103050,6515,Metropolitan,Properties
+37,2013,cowlitz,103300,6994,Metropolitan,Properties
+38,2014,cowlitz,103700,6213,Metropolitan,Properties
+39,2015,cowlitz,104280,5530,Metropolitan,Properties
+40,2016,cowlitz,104850,5778,Metropolitan,Properties
+41,2012,douglas,38900,1396,Metropolitan,Properties
+42,2013,douglas,39280,1407,Metropolitan,Properties
+43,2014,douglas,39700,1308,Metropolitan,Properties
+44,2015,douglas,39990,1376,Metropolitan,Properties
+45,2016,douglas,40720,1340,Metropolitan,Properties
+46,2012,garfield,2250,93,Noncore,Properties
+47,2012,ferry,7650,73,Noncore,Properties
+48,2013,ferry,7650,97,Noncore,Properties
+49,2014,ferry,7660,69,Noncore,Properties
+50,2015,ferry,7710,60,Noncore,Properties
+51,2016,ferry,7700,16,Noncore,Properties
+52,2012,franklin,82500,3776,Metropolitan,Properties
+53,2013,franklin,84800,3627,Metropolitan,Properties
+54,2014,franklin,86600,3122,Metropolitan,Properties
+55,2015,franklin,87150,3244,Metropolitan,Properties
+56,2016,franklin,88670,3533,Metropolitan,Properties
+57,2014,garfield,2240,67,Noncore,Properties
+58,2015,garfield,2260,82,Noncore,Properties
+59,2016,garfield,2200,120,Noncore,Properties
+60,2012,grant,91000,6223,Micropolitan,Properties
+61,2013,grant,91800,6698,Micropolitan,Properties
+62,2014,grant,92900,6053,Micropolitan,Properties
+63,2015,grant,93930,6274,Micropolitan,Properties
+64,2016,grant,94610,6025,Micropolitan,Properties
+65,2012,grays harbor,73150,2608,Micropolitan,Properties
+66,2013,grays harbor,73200,3753,Micropolitan,Properties
+67,2014,grays harbor,73300,3263,Micropolitan,Properties
+68,2015,grays harbor,73110,3417,Micropolitan,Properties
+69,2016,grays harbor,72820,2924,Micropolitan,Properties
+70,2012,island,79350,2834,Micropolitan,Properties
+71,2013,island,79700,2527,Micropolitan,Properties
+72,2014,island,80000,2147,Micropolitan,Properties
+73,2015,island,80600,1610,Micropolitan,Properties
+74,2016,island,82910,1652,Micropolitan,Properties
+75,2012,jefferson,30175,1313,Noncore,Properties
+76,2013,jefferson,30275,1134,Noncore,Properties
+77,2014,jefferson,30700,1370,Noncore,Properties
+78,2015,jefferson,30880,1025,Noncore,Properties
+79,2016,jefferson,31090,914,Noncore,Properties
+80,2012,king,1957000,81818,Metropolitan,Properties
+81,2013,king,1981900,98100,Metropolitan,Properties
+82,2014,king,2017250,118597,Metropolitan,Properties
+83,2015,king,2052800,121591,Metropolitan,Properties
+84,2016,king,2105100,126301,Metropolitan,Properties
+85,2012,kitsap,254500,13526,Metropolitan,Properties
+86,2013,kitsap,254000,12455,Metropolitan,Properties
+87,2014,kitsap,255900,11938,Metropolitan,Properties
+88,2015,kitsap,258200,11294,Metropolitan,Properties
+89,2016,kitsap,262590,11229,Metropolitan,Properties
+90,2012,kittitas,41500,2505,Micropolitan,Properties
+91,2013,kittitas,41900,2477,Micropolitan,Properties
+92,2014,kittitas,42100,2068,Micropolitan,Properties
+93,2015,kittitas,42670,1867,Micropolitan,Properties
+94,2016,kittitas,43710,1699,Micropolitan,Properties
+95,2012,klickitat,20600,577,Noncore,Properties
+96,2013,klickitat,20700,573,Noncore,Properties
+97,2014,klickitat,20850,499,Noncore,Properties
+98,2015,klickitat,21000,675,Noncore,Properties
+99,2016,klickitat,21270,403,Noncore,Properties
+100,2012,lewis,76300,3547,Micropolitan,Properties
+101,2013,lewis,76200,3037,Micropolitan,Properties
+102,2014,lewis,76300,3347,Micropolitan,Properties
+103,2015,lewis,76660,3336,Micropolitan,Properties
+104,2016,lewis,76890,3680,Micropolitan,Properties
+105,2012,lincoln,10675,345,Noncore,Properties
+106,2013,lincoln,10675,275,Noncore,Properties
+107,2014,lincoln,10700,273,Noncore,Properties
+108,2015,lincoln,10720,263,Noncore,Properties
+109,2016,lincoln,10640,293,Noncore,Properties
+110,2012,mason,61450,4495,Micropolitan,Properties
+111,2013,mason,61800,3690,Micropolitan,Properties
+112,2014,mason,62000,3560,Micropolitan,Properties
+113,2015,mason,62200,3141,Micropolitan,Properties
+114,2016,mason,62320,2674,Micropolitan,Properties
+115,2012,okanogan,41425,1416,Noncore,Properties
+116,2013,okanogan,41500,1577,Noncore,Properties
+117,2014,okanogan,41700,1533,Noncore,Properties
+118,2015,okanogan,41860,1301,Noncore,Properties
+119,2016,okanogan,41730,1025,Noncore,Properties
+120,2012,pacific,20970,736,Noncore,Properties
+121,2013,pacific,21000,738,Noncore,Properties
+122,2014,pacific,21100,626,Noncore,Properties
+123,2015,pacific,21210,502,Noncore,Properties
+124,2016,pacific,21180,424,Noncore,Properties
+125,2012,pend oreille,13100,768,Metropolitan,Properties
+126,2013,pend oreille,13150,804,Metropolitan,Properties
+127,2014,pend oreille,13210,646,Metropolitan,Properties
+128,2015,pend oreille,13240,521,Metropolitan,Properties
+129,2016,pend oreille,13290,411,Metropolitan,Properties
+130,2012,pierce,808200,62164,Metropolitan,Properties
+131,2013,pierce,814500,61777,Metropolitan,Properties
+132,2014,pierce,821300,59781,Metropolitan,Properties
+133,2015,pierce,830120,58473,Metropolitan,Properties
+134,2016,pierce,844490,61290,Metropolitan,Properties
+135,2012,san juan,15925,364,Noncore,Properties
+136,2013,san juan,16000,337,Noncore,Properties
+137,2014,san juan,16100,245,Noncore,Properties
+138,2015,san juan,16180,329,Noncore,Properties
+139,2016,san juan,16320,260,Noncore,Properties
+140,2012,skagit,117950,8678,Metropolitan,Properties
+141,2013,skagit,118600,8650,Metropolitan,Properties
+142,2014,skagit,119500,7520,Metropolitan,Properties
+143,2015,skagit,120620,8454,Metropolitan,Properties
+144,2016,skagit,122270,7619,Metropolitan,Properties
+145,2012,skamania,11275,213,Metropolitan,Properties
+146,2013,skamania,11300,175,Metropolitan,Properties
+147,2014,skamania,11370,177,Metropolitan,Properties
+148,2015,skamania,11430,198,Metropolitan,Properties
+149,2016,skamania,11500,114,Metropolitan,Properties
+150,2012,snohomish,722900,3216,Metropolitan,Properties
+151,2013,snohomish,730500,4575,Metropolitan,Properties
+152,2014,snohomish,741000,5159,Metropolitan,Properties
+153,2015,snohomish,757600,10290,Metropolitan,Properties
+154,2016,snohomish,772860,37789,Metropolitan,Properties
+155,2012,spokane,475600,1353,Metropolitan,Properties
+156,2013,spokane,480000,1288,Metropolitan,Properties
+157,2014,spokane,484500,1253,Metropolitan,Properties
+158,2015,spokane,488310,1334,Metropolitan,Properties
+159,2016,spokane,492530,15492,Metropolitan,Properties
+160,2012,state,6817770,279397,,Properties
+161,2013,state,6882400,297348,,Properties
+162,2014,state,6968170,319331,,Properties
+163,2015,state,7061410,327047,,Properties
+164,2016,state,7183700,373540,,Properties
+165,2012,stevens,43700,1530,Metropolitan,Properties
+166,2013,stevens,43800,1323,Metropolitan,Properties
+167,2014,stevens,43900,1478,Metropolitan,Properties
+168,2015,stevens,44030,1416,Metropolitan,Properties
+169,2016,stevens,44100,1300,Metropolitan,Properties
+170,2012,thurston,256800,5965,Metropolitan,Properties
+171,2013,thurston,260100,5221,Metropolitan,Properties
+172,2014,thurston,264000,12921,Metropolitan,Properties
+173,2015,thurston,267410,13714,Metropolitan,Properties
+174,2016,thurston,272690,13800,Metropolitan,Properties
+175,2012,wahkiakum,4025,31,Noncore,Properties
+176,2013,wahkiakum,4020,44,Noncore,Properties
+177,2014,wahkiakum,4010,68,Noncore,Properties
+178,2015,wahkiakum,3980,107,Noncore,Properties
+179,2016,wahkiakum,4000,82,Noncore,Properties
+180,2012,walla walla,59100,1133,Metropolitan,Properties
+181,2013,walla walla,59500,3611,Metropolitan,Properties
+182,2014,walla walla,60150,3643,Metropolitan,Properties
+183,2015,walla walla,60650,3603,Metropolitan,Properties
+184,2016,walla walla,60730,3600,Metropolitan,Properties
+185,2012,whatcom,203500,9322,Metropolitan,Properties
+186,2013,whatcom,205800,9371,Metropolitan,Properties
+187,2014,whatcom,207600,12644,Metropolitan,Properties
+188,2015,whatcom,209790,11349,Metropolitan,Properties
+189,2016,whatcom,212540,12337,Metropolitan,Properties
+190,2012,whitman,45950,1684,Micropolitan,Properties
+191,2013,whitman,46000,1388,Micropolitan,Properties
+192,2014,whitman,46500,1567,Micropolitan,Properties
+193,2015,whitman,47250,1269,Micropolitan,Properties
+194,2016,whitman,47940,913,Micropolitan,Properties
+195,2012,yakima,246000,14322,Metropolitan,Properties
+196,2013,yakima,247250,15219,Metropolitan,Properties
+197,2014,yakima,248800,14460,Metropolitan,Properties
+198,2015,yakima,249970,15305,Metropolitan,Properties
+199,2016,yakima,250900,15560,Metropolitan,Properties
+0,2012,adams,19050,242,Micropolitan,Drug
+1,2013,adams,19200,223,Micropolitan,Drug
+2,2014,adams,19400,259,Micropolitan,Drug
+3,2015,adams,19410,253,Micropolitan,Drug
+4,2016,adams,19510,292,Micropolitan,Drug
+5,2012,asotin,21700,329,Metropolitan,Drug
+6,2013,asotin,21800,248,Metropolitan,Drug
+7,2014,asotin,21950,144,Metropolitan,Drug
+8,2015,asotin,22010,147,Metropolitan,Drug
+9,2016,asotin,22150,100,Metropolitan,Drug
+10,2012,benton,180000,3273,Metropolitan,Drug
+11,2013,benton,183400,2148,Metropolitan,Drug
+12,2014,benton,186500,2124,Metropolitan,Drug
+13,2015,benton,188590,2041,Metropolitan,Drug
+14,2016,benton,190500,2145,Metropolitan,Drug
+15,2012,chelan,73200,226,Metropolitan,Drug
+16,2013,chelan,73600,653,Metropolitan,Drug
+17,2014,chelan,74300,822,Metropolitan,Drug
+18,2015,chelan,75030,870,Metropolitan,Drug
+19,2016,chelan,75910,972,Metropolitan,Drug
+20,2012,clallam,72000,817,Micropolitan,Drug
+21,2013,clallam,72350,766,Micropolitan,Drug
+22,2014,clallam,72500,717,Micropolitan,Drug
+23,2015,clallam,72650,556,Micropolitan,Drug
+24,2016,clallam,73410,599,Micropolitan,Drug
+25,2012,clark,431250,2725,Metropolitan,Drug
+26,2013,clark,435500,2100,Metropolitan,Drug
+27,2013,garfield,2250,42,Noncore,Drug
+28,2014,clark,442800,2111,Metropolitan,Drug
+29,2015,clark,451820,2261,Metropolitan,Drug
+30,2016,clark,461010,2219,Metropolitan,Drug
+31,2012,columbia,4100,3,Metropolitan,Drug
+32,2013,columbia,4100,0,Metropolitan,Drug
+33,2014,columbia,4080,0,Metropolitan,Drug
+34,2015,columbia,4090,2,Metropolitan,Drug
+35,2016,columbia,4050,6,Metropolitan,Drug
+36,2012,cowlitz,103050,1590,Metropolitan,Drug
+37,2013,cowlitz,103300,1660,Metropolitan,Drug
+38,2014,cowlitz,103700,1677,Metropolitan,Drug
+39,2015,cowlitz,104280,1611,Metropolitan,Drug
+40,2016,cowlitz,104850,1791,Metropolitan,Drug
+41,2012,douglas,38900,498,Metropolitan,Drug
+42,2013,douglas,39280,282,Metropolitan,Drug
+43,2014,douglas,39700,258,Metropolitan,Drug
+44,2015,douglas,39990,369,Metropolitan,Drug
+45,2016,douglas,40720,441,Metropolitan,Drug
+46,2012,garfield,2250,55,Noncore,Drug
+47,2012,ferry,7650,15,Noncore,Drug
+48,2013,ferry,7650,5,Noncore,Drug
+49,2014,ferry,7660,55,Noncore,Drug
+50,2015,ferry,7710,9,Noncore,Drug
+51,2016,ferry,7700,0,Noncore,Drug
+52,2012,franklin,82500,1212,Metropolitan,Drug
+53,2013,franklin,84800,803,Metropolitan,Drug
+54,2014,franklin,86600,954,Metropolitan,Drug
+55,2015,franklin,87150,1036,Metropolitan,Drug
+56,2016,franklin,88670,1191,Metropolitan,Drug
+57,2014,garfield,2240,32,Noncore,Drug
+58,2015,garfield,2260,47,Noncore,Drug
+59,2016,garfield,2200,45,Noncore,Drug
+60,2012,grant,91000,1112,Micropolitan,Drug
+61,2013,grant,91800,800,Micropolitan,Drug
+62,2014,grant,92900,1004,Micropolitan,Drug
+63,2015,grant,93930,947,Micropolitan,Drug
+64,2016,grant,94610,1088,Micropolitan,Drug
+65,2012,grays harbor,73150,1146,Micropolitan,Drug
+66,2013,grays harbor,73200,1045,Micropolitan,Drug
+67,2014,grays harbor,73300,1014,Micropolitan,Drug
+68,2015,grays harbor,73110,1177,Micropolitan,Drug
+69,2016,grays harbor,72820,984,Micropolitan,Drug
+70,2012,island,79350,393,Micropolitan,Drug
+71,2013,island,79700,203,Micropolitan,Drug
+72,2014,island,80000,161,Micropolitan,Drug
+73,2015,island,80600,133,Micropolitan,Drug
+74,2016,island,82910,192,Micropolitan,Drug
+75,2012,jefferson,30175,140,Noncore,Drug
+76,2013,jefferson,30275,162,Noncore,Drug
+77,2014,jefferson,30700,153,Noncore,Drug
+78,2015,jefferson,30880,136,Noncore,Drug
+79,2016,jefferson,31090,168,Noncore,Drug
+80,2012,king,1957000,8670,Metropolitan,Drug
+81,2013,king,1981900,8420,Metropolitan,Drug
+82,2014,king,2017250,9037,Metropolitan,Drug
+83,2015,king,2052800,10525,Metropolitan,Drug
+84,2016,king,2105100,11070,Metropolitan,Drug
+85,2012,kitsap,254500,2838,Metropolitan,Drug
+86,2013,kitsap,254000,2331,Metropolitan,Drug
+87,2014,kitsap,255900,2126,Metropolitan,Drug
+88,2015,kitsap,258200,1876,Metropolitan,Drug
+89,2016,kitsap,262590,1994,Metropolitan,Drug
+90,2012,kittitas,41500,633,Micropolitan,Drug
+91,2013,kittitas,41900,360,Micropolitan,Drug
+92,2014,kittitas,42100,399,Micropolitan,Drug
+93,2015,kittitas,42670,477,Micropolitan,Drug
+94,2016,kittitas,43710,483,Micropolitan,Drug
+95,2012,klickitat,20600,79,Noncore,Drug
+96,2013,klickitat,20700,62,Noncore,Drug
+97,2014,klickitat,20850,40,Noncore,Drug
+98,2015,klickitat,21000,68,Noncore,Drug
+99,2016,klickitat,21270,56,Noncore,Drug
+100,2012,lewis,76300,1388,Micropolitan,Drug
+101,2013,lewis,76200,861,Micropolitan,Drug
+102,2014,lewis,76300,825,Micropolitan,Drug
+103,2015,lewis,76660,700,Micropolitan,Drug
+104,2016,lewis,76890,703,Micropolitan,Drug
+105,2012,lincoln,10675,117,Noncore,Drug
+106,2013,lincoln,10675,83,Noncore,Drug
+107,2014,lincoln,10700,84,Noncore,Drug
+108,2015,lincoln,10720,85,Noncore,Drug
+109,2016,lincoln,10640,76,Noncore,Drug
+110,2012,mason,61450,732,Micropolitan,Drug
+111,2013,mason,61800,610,Micropolitan,Drug
+112,2014,mason,62000,645,Micropolitan,Drug
+113,2015,mason,62200,647,Micropolitan,Drug
+114,2016,mason,62320,624,Micropolitan,Drug
+115,2012,okanogan,41425,314,Noncore,Drug
+116,2013,okanogan,41500,231,Noncore,Drug
+117,2014,okanogan,41700,222,Noncore,Drug
+118,2015,okanogan,41860,230,Noncore,Drug
+119,2016,okanogan,41730,245,Noncore,Drug
+120,2012,pacific,20970,131,Noncore,Drug
+121,2013,pacific,21000,250,Noncore,Drug
+122,2014,pacific,21100,225,Noncore,Drug
+123,2015,pacific,21210,137,Noncore,Drug
+124,2016,pacific,21180,145,Noncore,Drug
+125,2012,pend oreille,13100,155,Metropolitan,Drug
+126,2013,pend oreille,13150,195,Metropolitan,Drug
+127,2014,pend oreille,13210,188,Metropolitan,Drug
+128,2015,pend oreille,13240,149,Metropolitan,Drug
+129,2016,pend oreille,13290,200,Metropolitan,Drug
+130,2012,pierce,808200,6951,Metropolitan,Drug
+131,2013,pierce,814500,6848,Metropolitan,Drug
+132,2014,pierce,821300,7298,Metropolitan,Drug
+133,2015,pierce,830120,7550,Metropolitan,Drug
+134,2016,pierce,844490,7393,Metropolitan,Drug
+135,2012,san juan,15925,38,Noncore,Drug
+136,2013,san juan,16000,26,Noncore,Drug
+137,2014,san juan,16100,21,Noncore,Drug
+138,2015,san juan,16180,19,Noncore,Drug
+139,2016,san juan,16320,30,Noncore,Drug
+140,2012,skagit,117950,2518,Metropolitan,Drug
+141,2013,skagit,118600,2179,Metropolitan,Drug
+142,2014,skagit,119500,2135,Metropolitan,Drug
+143,2015,skagit,120620,2597,Metropolitan,Drug
+144,2016,skagit,122270,3334,Metropolitan,Drug
+145,2012,skamania,11275,97,Metropolitan,Drug
+146,2013,skamania,11300,50,Metropolitan,Drug
+147,2014,skamania,11370,45,Metropolitan,Drug
+148,2015,skamania,11430,21,Metropolitan,Drug
+149,2016,skamania,11500,27,Metropolitan,Drug
+150,2012,snohomish,722900,962,Metropolitan,Drug
+151,2013,snohomish,730500,964,Metropolitan,Drug
+152,2014,snohomish,741000,1140,Metropolitan,Drug
+153,2015,snohomish,757600,2176,Metropolitan,Drug
+154,2016,snohomish,772860,10354,Metropolitan,Drug
+155,2012,spokane,475600,197,Metropolitan,Drug
+156,2013,spokane,480000,167,Metropolitan,Drug
+157,2014,spokane,484500,163,Metropolitan,Drug
+158,2015,spokane,488310,271,Metropolitan,Drug
+159,2016,spokane,492530,1138,Metropolitan,Drug
+160,2012,state,6817770,46620,,Drug
+161,2013,state,6882400,40456,,Drug
+162,2014,state,6968170,43084,,Drug
+163,2015,state,7061410,45488,,Drug
+164,2016,state,7183700,56875,,Drug
+165,2012,stevens,43700,225,Metropolitan,Drug
+166,2013,stevens,43800,135,Metropolitan,Drug
+167,2014,stevens,43900,135,Metropolitan,Drug
+168,2015,stevens,44030,143,Metropolitan,Drug
+169,2016,stevens,44100,127,Metropolitan,Drug
+170,2012,thurston,256800,708,Metropolitan,Drug
+171,2013,thurston,260100,442,Metropolitan,Drug
+172,2014,thurston,264000,1672,Metropolitan,Drug
+173,2015,thurston,267410,1589,Metropolitan,Drug
+174,2016,thurston,272690,1852,Metropolitan,Drug
+175,2012,wahkiakum,4025,15,Noncore,Drug
+176,2013,wahkiakum,4020,24,Noncore,Drug
+177,2014,wahkiakum,4010,19,Noncore,Drug
+178,2015,wahkiakum,3980,11,Noncore,Drug
+179,2016,wahkiakum,4000,4,Noncore,Drug
+180,2012,walla walla,59100,262,Metropolitan,Drug
+181,2013,walla walla,59500,571,Metropolitan,Drug
+182,2014,walla walla,60150,651,Metropolitan,Drug
+183,2015,walla walla,60650,509,Metropolitan,Drug
+184,2016,walla walla,60730,577,Metropolitan,Drug
+185,2012,whatcom,203500,1826,Metropolitan,Drug
+186,2013,whatcom,205800,1495,Metropolitan,Drug
+187,2014,whatcom,207600,1940,Metropolitan,Drug
+188,2015,whatcom,209790,1690,Metropolitan,Drug
+189,2016,whatcom,212540,1835,Metropolitan,Drug
+190,2012,whitman,45950,1118,Micropolitan,Drug
+191,2013,whitman,46000,637,Micropolitan,Drug
+192,2014,whitman,46500,719,Micropolitan,Drug
+193,2015,whitman,47250,488,Micropolitan,Drug
+194,2016,whitman,47940,350,Micropolitan,Drug
+195,2012,yakima,246000,2870,Metropolitan,Drug
+196,2013,yakima,247250,2375,Metropolitan,Drug
+197,2014,yakima,248800,1870,Metropolitan,Drug
+198,2015,yakima,249970,1935,Metropolitan,Drug
+199,2016,yakima,250900,2025,Metropolitan,Drug
+0,2012,adams,19050,20,Micropolitan,Sexual
+1,2013,adams,19200,31,Micropolitan,Sexual
+2,2014,adams,19400,20,Micropolitan,Sexual
+3,2015,adams,19410,30,Micropolitan,Sexual
+4,2016,adams,19510,21,Micropolitan,Sexual
+5,2012,asotin,21700,9,Metropolitan,Sexual
+6,2013,asotin,21800,6,Metropolitan,Sexual
+7,2014,asotin,21950,11,Metropolitan,Sexual
+8,2015,asotin,22010,15,Metropolitan,Sexual
+9,2016,asotin,22150,21,Metropolitan,Sexual
+10,2012,benton,180000,217,Metropolitan,Sexual
+11,2013,benton,183400,209,Metropolitan,Sexual
+12,2014,benton,186500,209,Metropolitan,Sexual
+13,2015,benton,188590,224,Metropolitan,Sexual
+14,2016,benton,190500,229,Metropolitan,Sexual
+15,2012,chelan,73200,11,Metropolitan,Sexual
+16,2013,chelan,73600,55,Metropolitan,Sexual
+17,2014,chelan,74300,53,Metropolitan,Sexual
+18,2015,chelan,75030,48,Metropolitan,Sexual
+19,2016,chelan,75910,52,Metropolitan,Sexual
+20,2012,clallam,72000,93,Micropolitan,Sexual
+21,2013,clallam,72350,77,Micropolitan,Sexual
+22,2014,clallam,72500,60,Micropolitan,Sexual
+23,2015,clallam,72650,82,Micropolitan,Sexual
+24,2016,clallam,73410,87,Micropolitan,Sexual
+25,2012,clark,431250,280,Metropolitan,Sexual
+26,2013,clark,435500,235,Metropolitan,Sexual
+27,2013,garfield,2250,2,Noncore,Sexual
+28,2014,clark,442800,251,Metropolitan,Sexual
+29,2015,clark,451820,308,Metropolitan,Sexual
+30,2016,clark,461010,339,Metropolitan,Sexual
+31,2012,columbia,4100,4,Metropolitan,Sexual
+32,2013,columbia,4100,3,Metropolitan,Sexual
+33,2014,columbia,4080,0,Metropolitan,Sexual
+34,2015,columbia,4090,0,Metropolitan,Sexual
+35,2016,columbia,4050,5,Metropolitan,Sexual
+36,2012,cowlitz,103050,118,Metropolitan,Sexual
+37,2013,cowlitz,103300,134,Metropolitan,Sexual
+38,2014,cowlitz,103700,99,Metropolitan,Sexual
+39,2015,cowlitz,104280,116,Metropolitan,Sexual
+40,2016,cowlitz,104850,107,Metropolitan,Sexual
+41,2012,douglas,38900,34,Metropolitan,Sexual
+42,2013,douglas,39280,32,Metropolitan,Sexual
+43,2014,douglas,39700,18,Metropolitan,Sexual
+44,2015,douglas,39990,21,Metropolitan,Sexual
+45,2016,douglas,40720,28,Metropolitan,Sexual
+46,2012,garfield,2250,4,Noncore,Sexual
+47,2012,ferry,7650,4,Noncore,Sexual
+48,2013,ferry,7650,6,Noncore,Sexual
+49,2014,ferry,7660,6,Noncore,Sexual
+50,2015,ferry,7710,2,Noncore,Sexual
+51,2016,ferry,7700,4,Noncore,Sexual
+52,2012,franklin,82500,135,Metropolitan,Sexual
+53,2013,franklin,84800,124,Metropolitan,Sexual
+54,2014,franklin,86600,118,Metropolitan,Sexual
+55,2015,franklin,87150,131,Metropolitan,Sexual
+56,2016,franklin,88670,129,Metropolitan,Sexual
+57,2014,garfield,2240,2,Noncore,Sexual
+58,2015,garfield,2260,14,Noncore,Sexual
+59,2016,garfield,2200,9,Noncore,Sexual
+60,2012,grant,91000,99,Micropolitan,Sexual
+61,2013,grant,91800,88,Micropolitan,Sexual
+62,2014,grant,92900,81,Micropolitan,Sexual
+63,2015,grant,93930,76,Micropolitan,Sexual
+64,2016,grant,94610,60,Micropolitan,Sexual
+65,2012,grays harbor,73150,95,Micropolitan,Sexual
+66,2013,grays harbor,73200,143,Micropolitan,Sexual
+67,2014,grays harbor,73300,147,Micropolitan,Sexual
+68,2015,grays harbor,73110,133,Micropolitan,Sexual
+69,2016,grays harbor,72820,164,Micropolitan,Sexual
+70,2012,island,79350,43,Micropolitan,Sexual
+71,2013,island,79700,24,Micropolitan,Sexual
+72,2014,island,80000,23,Micropolitan,Sexual
+73,2015,island,80600,26,Micropolitan,Sexual
+74,2016,island,82910,30,Micropolitan,Sexual
+75,2012,jefferson,30175,30,Noncore,Sexual
+76,2013,jefferson,30275,28,Noncore,Sexual
+77,2014,jefferson,30700,35,Noncore,Sexual
+78,2015,jefferson,30880,16,Noncore,Sexual
+79,2016,jefferson,31090,19,Noncore,Sexual
+80,2012,king,1957000,696,Metropolitan,Sexual
+81,2013,king,1981900,751,Metropolitan,Sexual
+82,2014,king,2017250,933,Metropolitan,Sexual
+83,2015,king,2052800,1005,Metropolitan,Sexual
+84,2016,king,2105100,1207,Metropolitan,Sexual
+85,2012,kitsap,254500,265,Metropolitan,Sexual
+86,2013,kitsap,254000,252,Metropolitan,Sexual
+87,2014,kitsap,255900,266,Metropolitan,Sexual
+88,2015,kitsap,258200,221,Metropolitan,Sexual
+89,2016,kitsap,262590,236,Metropolitan,Sexual
+90,2012,kittitas,41500,34,Micropolitan,Sexual
+91,2013,kittitas,41900,24,Micropolitan,Sexual
+92,2014,kittitas,42100,34,Micropolitan,Sexual
+93,2015,kittitas,42670,38,Micropolitan,Sexual
+94,2016,kittitas,43710,34,Micropolitan,Sexual
+95,2012,klickitat,20600,12,Noncore,Sexual
+96,2013,klickitat,20700,6,Noncore,Sexual
+97,2014,klickitat,20850,11,Noncore,Sexual
+98,2015,klickitat,21000,13,Noncore,Sexual
+99,2016,klickitat,21270,17,Noncore,Sexual
+100,2012,lewis,76300,94,Micropolitan,Sexual
+101,2013,lewis,76200,76,Micropolitan,Sexual
+102,2014,lewis,76300,98,Micropolitan,Sexual
+103,2015,lewis,76660,84,Micropolitan,Sexual
+104,2016,lewis,76890,72,Micropolitan,Sexual
+105,2012,lincoln,10675,7,Noncore,Sexual
+106,2013,lincoln,10675,9,Noncore,Sexual
+107,2014,lincoln,10700,16,Noncore,Sexual
+108,2015,lincoln,10720,8,Noncore,Sexual
+109,2016,lincoln,10640,10,Noncore,Sexual
+110,2012,mason,61450,85,Micropolitan,Sexual
+111,2013,mason,61800,58,Micropolitan,Sexual
+112,2014,mason,62000,69,Micropolitan,Sexual
+113,2015,mason,62200,45,Micropolitan,Sexual
+114,2016,mason,62320,76,Micropolitan,Sexual
+115,2012,okanogan,41425,15,Noncore,Sexual
+116,2013,okanogan,41500,16,Noncore,Sexual
+117,2014,okanogan,41700,14,Noncore,Sexual
+118,2015,okanogan,41860,17,Noncore,Sexual
+119,2016,okanogan,41730,12,Noncore,Sexual
+120,2012,pacific,20970,11,Noncore,Sexual
+121,2013,pacific,21000,19,Noncore,Sexual
+122,2014,pacific,21100,22,Noncore,Sexual
+123,2015,pacific,21210,14,Noncore,Sexual
+124,2016,pacific,21180,12,Noncore,Sexual
+125,2012,pend oreille,13100,9,Metropolitan,Sexual
+126,2013,pend oreille,13150,8,Metropolitan,Sexual
+127,2014,pend oreille,13210,14,Metropolitan,Sexual
+128,2015,pend oreille,13240,15,Metropolitan,Sexual
+129,2016,pend oreille,13290,15,Metropolitan,Sexual
+130,2012,pierce,808200,847,Metropolitan,Sexual
+131,2013,pierce,814500,886,Metropolitan,Sexual
+132,2014,pierce,821300,914,Metropolitan,Sexual
+133,2015,pierce,830120,971,Metropolitan,Sexual
+134,2016,pierce,844490,1020,Metropolitan,Sexual
+135,2012,san juan,15925,6,Noncore,Sexual
+136,2013,san juan,16000,6,Noncore,Sexual
+137,2014,san juan,16100,4,Noncore,Sexual
+138,2015,san juan,16180,5,Noncore,Sexual
+139,2016,san juan,16320,9,Noncore,Sexual
+140,2012,skagit,117950,86,Metropolitan,Sexual
+141,2013,skagit,118600,75,Metropolitan,Sexual
+142,2014,skagit,119500,114,Metropolitan,Sexual
+143,2015,skagit,120620,76,Metropolitan,Sexual
+144,2016,skagit,122270,66,Metropolitan,Sexual
+145,2012,skamania,11275,17,Metropolitan,Sexual
+146,2013,skamania,11300,10,Metropolitan,Sexual
+147,2014,skamania,11370,6,Metropolitan,Sexual
+148,2015,skamania,11430,13,Metropolitan,Sexual
+149,2016,skamania,11500,5,Metropolitan,Sexual
+150,2012,snohomish,722900,52,Metropolitan,Sexual
+151,2013,snohomish,730500,70,Metropolitan,Sexual
+152,2014,snohomish,741000,86,Metropolitan,Sexual
+153,2015,snohomish,757600,136,Metropolitan,Sexual
+154,2016,snohomish,772860,513,Metropolitan,Sexual
+155,2012,spokane,475600,13,Metropolitan,Sexual
+156,2013,spokane,480000,8,Metropolitan,Sexual
+157,2014,spokane,484500,19,Metropolitan,Sexual
+158,2015,spokane,488310,30,Metropolitan,Sexual
+159,2016,spokane,492530,307,Metropolitan,Sexual
+160,2012,state,6817770,3995,,Sexual
+161,2013,state,6882400,4109,,Sexual
+162,2014,state,6968170,4588,,Sexual
+163,2015,state,7061410,4814,,Sexual
+164,2016,state,7183700,5830,,Sexual
+165,2012,stevens,43700,35,Metropolitan,Sexual
+166,2013,stevens,43800,44,Metropolitan,Sexual
+167,2014,stevens,43900,46,Metropolitan,Sexual
+168,2015,stevens,44030,50,Metropolitan,Sexual
+169,2016,stevens,44100,32,Metropolitan,Sexual
+170,2012,thurston,256800,105,Metropolitan,Sexual
+171,2013,thurston,260100,104,Metropolitan,Sexual
+172,2014,thurston,264000,229,Metropolitan,Sexual
+173,2015,thurston,267410,231,Metropolitan,Sexual
+174,2016,thurston,272690,190,Metropolitan,Sexual
+175,2012,wahkiakum,4025,3,Noncore,Sexual
+176,2013,wahkiakum,4020,6,Noncore,Sexual
+177,2014,wahkiakum,4010,0,Noncore,Sexual
+178,2015,wahkiakum,3980,2,Noncore,Sexual
+179,2016,wahkiakum,4000,5,Noncore,Sexual
+180,2012,walla walla,59100,16,Metropolitan,Sexual
+181,2013,walla walla,59500,37,Metropolitan,Sexual
+182,2014,walla walla,60150,45,Metropolitan,Sexual
+183,2015,walla walla,60650,73,Metropolitan,Sexual
+184,2016,walla walla,60730,60,Metropolitan,Sexual
+185,2012,whatcom,203500,117,Metropolitan,Sexual
+186,2013,whatcom,205800,131,Metropolitan,Sexual
+187,2014,whatcom,207600,173,Metropolitan,Sexual
+188,2015,whatcom,209790,181,Metropolitan,Sexual
+189,2016,whatcom,212540,227,Metropolitan,Sexual
+190,2012,whitman,45950,39,Micropolitan,Sexual
+191,2013,whitman,46000,32,Micropolitan,Sexual
+192,2014,whitman,46500,28,Micropolitan,Sexual
+193,2015,whitman,47250,29,Micropolitan,Sexual
+194,2016,whitman,47940,57,Micropolitan,Sexual
+195,2012,yakima,246000,235,Metropolitan,Sexual
+196,2013,yakima,247250,284,Metropolitan,Sexual
+197,2014,yakima,248800,314,Metropolitan,Sexual
+198,2015,yakima,249970,315,Metropolitan,Sexual
+199,2016,yakima,250900,344,Metropolitan,Sexual
+0,2012,adams,19050,1915,Micropolitan,Overall
+1,2013,adams,19200,2130,Micropolitan,Overall
+2,2014,adams,19400,2122,Micropolitan,Overall
+3,2015,adams,19410,1770,Micropolitan,Overall
+4,2016,adams,19510,1525,Micropolitan,Overall
+5,2012,asotin,21700,1437,Metropolitan,Overall
+6,2013,asotin,21800,1615,Metropolitan,Overall
+7,2014,asotin,21950,1338,Metropolitan,Overall
+8,2015,asotin,22010,1593,Metropolitan,Overall
+9,2016,asotin,22150,1511,Metropolitan,Overall
+10,2012,benton,180000,11993,Metropolitan,Overall
+11,2013,benton,183400,12296,Metropolitan,Overall
+12,2014,benton,186500,12133,Metropolitan,Overall
+13,2015,benton,188590,11806,Metropolitan,Overall
+14,2016,benton,190500,11886,Metropolitan,Overall
+15,2012,chelan,73200,1349,Metropolitan,Overall
+16,2013,chelan,73600,3898,Metropolitan,Overall
+17,2014,chelan,74300,3468,Metropolitan,Overall
+18,2015,chelan,75030,3892,Metropolitan,Overall
+19,2016,chelan,75910,3991,Metropolitan,Overall
+20,2012,clallam,72000,5237,Micropolitan,Overall
+21,2013,clallam,72350,5330,Micropolitan,Overall
+22,2014,clallam,72500,4863,Micropolitan,Overall
+23,2015,clallam,72650,5066,Micropolitan,Overall
+24,2016,clallam,73410,4524,Micropolitan,Overall
+25,2012,clark,431250,22287,Metropolitan,Overall
+26,2013,clark,435500,20490,Metropolitan,Overall
+27,2013,garfield,2250,173,Noncore,Overall
+28,2014,clark,442800,19193,Metropolitan,Overall
+29,2015,clark,451820,21761,Metropolitan,Overall
+30,2016,clark,461010,21209,Metropolitan,Overall
+31,2012,columbia,4100,262,Metropolitan,Overall
+32,2013,columbia,4100,305,Metropolitan,Overall
+33,2014,columbia,4080,127,Metropolitan,Overall
+34,2015,columbia,4090,83,Metropolitan,Overall
+35,2016,columbia,4050,211,Metropolitan,Overall
+36,2012,cowlitz,103050,8367,Metropolitan,Overall
+37,2013,cowlitz,103300,9414,Metropolitan,Overall
+38,2014,cowlitz,103700,8442,Metropolitan,Overall
+39,2015,cowlitz,104280,7916,Metropolitan,Overall
+40,2016,cowlitz,104850,8053,Metropolitan,Overall
+41,2012,douglas,38900,1750,Metropolitan,Overall
+42,2013,douglas,39280,1835,Metropolitan,Overall
+43,2014,douglas,39700,1684,Metropolitan,Overall
+44,2015,douglas,39990,1903,Metropolitan,Overall
+45,2016,douglas,40720,1908,Metropolitan,Overall
+46,2012,garfield,2250,145,Noncore,Overall
+47,2012,ferry,7650,121,Noncore,Overall
+48,2013,ferry,7650,129,Noncore,Overall
+49,2014,ferry,7660,165,Noncore,Overall
+50,2015,ferry,7710,112,Noncore,Overall
+51,2016,ferry,7700,25,Noncore,Overall
+52,2012,franklin,82500,5219,Metropolitan,Overall
+53,2013,franklin,84800,5240,Metropolitan,Overall
+54,2014,franklin,86600,4865,Metropolitan,Overall
+55,2015,franklin,87150,4990,Metropolitan,Overall
+56,2016,franklin,88670,5314,Metropolitan,Overall
+57,2014,garfield,2240,130,Noncore,Overall
+58,2015,garfield,2260,211,Noncore,Overall
+59,2016,garfield,2200,169,Noncore,Overall
+60,2012,grant,91000,7418,Micropolitan,Overall
+61,2013,grant,91800,7866,Micropolitan,Overall
+62,2014,grant,92900,7587,Micropolitan,Overall
+63,2015,grant,93930,7620,Micropolitan,Overall
+64,2016,grant,94610,7455,Micropolitan,Overall
+65,2012,grays harbor,73150,3589,Micropolitan,Overall
+66,2013,grays harbor,73200,4982,Micropolitan,Overall
+67,2014,grays harbor,73300,4704,Micropolitan,Overall
+68,2015,grays harbor,73110,5137,Micropolitan,Overall
+69,2016,grays harbor,72820,4580,Micropolitan,Overall
+70,2012,island,79350,3246,Micropolitan,Overall
+71,2013,island,79700,2936,Micropolitan,Overall
+72,2014,island,80000,2536,Micropolitan,Overall
+73,2015,island,80600,1989,Micropolitan,Overall
+74,2016,island,82910,2118,Micropolitan,Overall
+75,2012,jefferson,30175,1594,Noncore,Overall
+76,2013,jefferson,30275,1521,Noncore,Overall
+77,2014,jefferson,30700,1666,Noncore,Overall
+78,2015,jefferson,30880,1324,Noncore,Overall
+79,2016,jefferson,31090,1241,Noncore,Overall
+80,2012,king,1957000,93104,Metropolitan,Overall
+81,2013,king,1981900,111437,Metropolitan,Overall
+82,2014,king,2017250,134663,Metropolitan,Overall
+83,2015,king,2052800,138896,Metropolitan,Overall
+84,2016,king,2105100,143881,Metropolitan,Overall
+85,2012,kitsap,254500,15913,Metropolitan,Overall
+86,2013,kitsap,254000,15444,Metropolitan,Overall
+87,2014,kitsap,255900,15098,Metropolitan,Overall
+88,2015,kitsap,258200,14711,Metropolitan,Overall
+89,2016,kitsap,262590,14766,Metropolitan,Overall
+90,2012,kittitas,41500,3082,Micropolitan,Overall
+91,2013,kittitas,41900,2950,Micropolitan,Overall
+92,2014,kittitas,42100,2683,Micropolitan,Overall
+93,2015,kittitas,42670,2485,Micropolitan,Overall
+94,2016,kittitas,43710,2341,Micropolitan,Overall
+95,2012,klickitat,20600,720,Noncore,Overall
+96,2013,klickitat,20700,757,Noncore,Overall
+97,2014,klickitat,20850,682,Noncore,Overall
+98,2015,klickitat,21000,820,Noncore,Overall
+99,2016,klickitat,21270,618,Noncore,Overall
+100,2012,lewis,76300,4881,Micropolitan,Overall
+101,2013,lewis,76200,4357,Micropolitan,Overall
+102,2014,lewis,76300,4580,Micropolitan,Overall
+103,2015,lewis,76660,4543,Micropolitan,Overall
+104,2016,lewis,76890,4837,Micropolitan,Overall
+105,2012,lincoln,10675,442,Noncore,Overall
+106,2013,lincoln,10675,381,Noncore,Overall
+107,2014,lincoln,10700,384,Noncore,Overall
+108,2015,lincoln,10720,395,Noncore,Overall
+109,2016,lincoln,10640,381,Noncore,Overall
+110,2012,mason,61450,4692,Micropolitan,Overall
+111,2013,mason,61800,4009,Micropolitan,Overall
+112,2014,mason,62000,3936,Micropolitan,Overall
+113,2015,mason,62200,3662,Micropolitan,Overall
+114,2016,mason,62320,3239,Micropolitan,Overall
+115,2012,okanogan,41425,1782,Noncore,Overall
+116,2013,okanogan,41500,1904,Noncore,Overall
+117,2014,okanogan,41700,1760,Noncore,Overall
+118,2015,okanogan,41860,1540,Noncore,Overall
+119,2016,okanogan,41730,1347,Noncore,Overall
+120,2012,pacific,20970,814,Noncore,Overall
+121,2013,pacific,21000,959,Noncore,Overall
+122,2014,pacific,21100,852,Noncore,Overall
+123,2015,pacific,21210,677,Noncore,Overall
+124,2016,pacific,21180,636,Noncore,Overall
+125,2012,pend oreille,13100,1017,Metropolitan,Overall
+126,2013,pend oreille,13150,1073,Metropolitan,Overall
+127,2014,pend oreille,13210,885,Metropolitan,Overall
+128,2015,pend oreille,13240,732,Metropolitan,Overall
+129,2016,pend oreille,13290,687,Metropolitan,Overall
+130,2012,pierce,808200,70493,Metropolitan,Overall
+131,2013,pierce,814500,72955,Metropolitan,Overall
+132,2014,pierce,821300,70360,Metropolitan,Overall
+133,2015,pierce,830120,70280,Metropolitan,Overall
+134,2016,pierce,844490,73497,Metropolitan,Overall
+135,2012,san juan,15925,390,Noncore,Overall
+136,2013,san juan,16000,375,Noncore,Overall
+137,2014,san juan,16100,280,Noncore,Overall
+138,2015,san juan,16180,368,Noncore,Overall
+139,2016,san juan,16320,342,Noncore,Overall
+140,2012,skagit,117950,10859,Metropolitan,Overall
+141,2013,skagit,118600,11037,Metropolitan,Overall
+142,2014,skagit,119500,9871,Metropolitan,Overall
+143,2015,skagit,120620,11140,Metropolitan,Overall
+144,2016,skagit,122270,10679,Metropolitan,Overall
+145,2012,skamania,11275,367,Metropolitan,Overall
+146,2013,skamania,11300,319,Metropolitan,Overall
+147,2014,skamania,11370,292,Metropolitan,Overall
+148,2015,skamania,11430,266,Metropolitan,Overall
+149,2016,skamania,11500,193,Metropolitan,Overall
+150,2012,snohomish,722900,3942,Metropolitan,Overall
+151,2013,snohomish,730500,5784,Metropolitan,Overall
+152,2014,snohomish,741000,6504,Metropolitan,Overall
+153,2015,snohomish,757600,12901,Metropolitan,Overall
+154,2016,snohomish,772860,48369,Metropolitan,Overall
+155,2012,spokane,475600,1663,Metropolitan,Overall
+156,2013,spokane,480000,1651,Metropolitan,Overall
+157,2014,spokane,484500,1696,Metropolitan,Overall
+158,2015,spokane,488310,1782,Metropolitan,Overall
+159,2016,spokane,492530,19629,Metropolitan,Overall
+160,2012,state,6817770,330669,,Overall
+161,2013,state,6882400,360444,,Overall
+162,2014,state,6968170,387449,,Overall
+163,2015,state,7061410,401051,,Overall
+164,2016,state,7183700,460825,,Overall
+165,2012,stevens,43700,1962,Metropolitan,Overall
+166,2013,stevens,43800,1758,Metropolitan,Overall
+167,2014,stevens,43900,1882,Metropolitan,Overall
+168,2015,stevens,44030,1849,Metropolitan,Overall
+169,2016,stevens,44100,1588,Metropolitan,Overall
+170,2012,thurston,256800,6205,Metropolitan,Overall
+171,2013,thurston,260100,5763,Metropolitan,Overall
+172,2014,thurston,264000,15474,Metropolitan,Overall
+173,2015,thurston,267410,16410,Metropolitan,Overall
+174,2016,thurston,272690,16746,Metropolitan,Overall
+175,2012,wahkiakum,4025,61,Noncore,Overall
+176,2013,wahkiakum,4020,78,Noncore,Overall
+177,2014,wahkiakum,4010,113,Noncore,Overall
+178,2015,wahkiakum,3980,157,Noncore,Overall
+179,2016,wahkiakum,4000,139,Noncore,Overall
+180,2012,walla walla,59100,1354,Metropolitan,Overall
+181,2013,walla walla,59500,4371,Metropolitan,Overall
+182,2014,walla walla,60150,4468,Metropolitan,Overall
+183,2015,walla walla,60650,4400,Metropolitan,Overall
+184,2016,walla walla,60730,4487,Metropolitan,Overall
+185,2012,whatcom,203500,11155,Metropolitan,Overall
+186,2013,whatcom,205800,11420,Metropolitan,Overall
+187,2014,whatcom,207600,15161,Metropolitan,Overall
+188,2015,whatcom,209790,13864,Metropolitan,Overall
+189,2016,whatcom,212540,14663,Metropolitan,Overall
+190,2012,whitman,45950,2449,Micropolitan,Overall
+191,2013,whitman,46000,1955,Micropolitan,Overall
+192,2014,whitman,46500,2229,Micropolitan,Overall
+193,2015,whitman,47250,1831,Micropolitan,Overall
+194,2016,whitman,47940,1438,Micropolitan,Overall
+195,2012,yakima,246000,17393,Metropolitan,Overall
+196,2013,yakima,247250,19547,Metropolitan,Overall
+197,2014,yakima,248800,18573,Metropolitan,Overall
+198,2015,yakima,249970,20169,Metropolitan,Overall
+199,2016,yakima,250900,20602,Metropolitan,Overall

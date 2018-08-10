@@ -1,0 +1,56 @@
+# MAKVL
+Group Project 1
+
+Project Title: Change in Crime Rate Over Time After the Legalization of Marijuana in the State of WA
+
+Team Members: Victoria Chou, Acca Cheung, Kenneth Wong, Lawrence Tsai, Maybo Li
+
+Project Description/Outline: Our objective is to see if there was a change in crime rate before and after the first sale of legal recreational marijuana in the State of Washington, and if the change in crime rate was statistically significant. We will also explore crime rate at the county and county type (urban, suburban, rural) levels. Additionally, we will see if there is an overlap in areas of greater crime rate, and marijuana stores/sales.
+
+Research Questions to Answer:
+- Has there been a change in crime rate since the legalization of recreational marijuana in the state of WA? Is the change statistically significant?
+- Are crime rates lower or higher in areas of higher marijuana sales or concentration of dispensaries at the county and/or county type level (urban, suburban, rural)?
+
+Data Sets to be Used:
+-	Google API
+-	Census
+-	Washington government website
+o	https://lcb.wa.gov/records/frequently-requested-lists
+o	“Marijuana; Medically Endorsed Stores”
+	Store locations by zipcode and city
+o	“Marijuana Sales Acitives”
+	Total Sales/Excise Tax by County from fiscal year 2015 to 2017
+	https://dor.wa.gov/sites/default/files/legacy/docs/reports/2017/Tax_Statistics_2017/Table1.pdf
+o	General info
+	https://www.tre.wa.gov/portfolio-item/washington-state-marijuana-revenues-and-health/
+	https://www.thecannabist.co/2015/07/01/washington-state-pot-law-overhaul-marijuana-tax-reset-at-37-percent/37238/
+•	News item on tax rate
+-	502.data website
+o	https://502data.com/counties
+	County marijuana sales
+-	FBI website
+o	https://ucr.fbi.gov/crime-in-the-u.s
+	U.S. crime data from 1995 to 2017
+-	Data.gov website
+o	https://catalog.data.gov/dataset/criminal-justice-data-book-3419c
+o	Crime type/# of incidents
+o	By County/Year
+o	Population size/Age Groups
+-	FBI website
+o	https://ucr.fbi.gov/crime-in-the-u.s/2017/preliminary-report
+o	National crime rates
+
+Rough Breakdown of Tasks:
+-	Datasets to clean up into usable dataframes
+o	Crime – Acca
+o	Store location – Ken
+o	Revenue – Victoria
+o	County Type – Maybo
+o	Income - Lawrence
+-	Visuals
+o	Crime rate over time – Acca
+o	Sales/Revenue over time – Victoria
+o	Store Location/Region Sales vs Income – Lawrence
+o	Sales/Revenue over time segmented by county type – Victoria
+o	# crime incidents or rate over time segmented by county type – Maybo
+o	# crime incidents or rate over time segmented by county - Maybo

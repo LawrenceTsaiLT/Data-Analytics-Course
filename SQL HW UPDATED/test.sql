@@ -191,15 +191,5 @@ GROUP BY category.category_id
 ORDER BY SUM(payment.amount) DESC;
 
 #8a. In your new role as an executive, you would like to have an easy way of viewing the Top five genres by gross revenue. Use the solution from the problem above to create a view. If you haven't solved 7h, you can substitute another query to create a view.
-SELECT category.category_id as 'Category',
-				SUM(payment.amount) as 'Gross Revenue'
-FROM PAYMENT
-JOIN rental ON payment.rental_id = rental.rental_id
-JOIN inventory ON rental.inventory_id = inventory.inventory_id
-JOIN film_category on inventory.film_id = film_category.film_id
-JOIN category on film_category.category_id = category.category_id
-GROUP BY category.category_id
-ORDER BY SUM(payment.amount) DESC;
-
 #8b. How would you display the view that you created in 8a?
 #8c. You find that you no longer need the view top_five_genres. Write a query to delete it.

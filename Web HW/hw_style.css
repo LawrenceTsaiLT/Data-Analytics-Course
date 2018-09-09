@@ -1,0 +1,29 @@
+.navbar-brand {
+	color: #FFFFFF;
+}
+
+.navbar-brand {
+	background-color: #0BADA6;
+}
+
+.title-label {
+	background-color: #0BADA6;
+}
+
+.head-label {
+  color: #0BADA6;
+}
+
+.container-fluid {
+	background-color: #EDEDED;
+}
+
+.container-body {
+	background-color: #FFFFFF;
+}
+
+.wrapper {
+  column-count: 2;
+  column-gap: 50px;
+  padding: 50px;
+}

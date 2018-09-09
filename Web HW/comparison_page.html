@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Bootstrap Components</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="hw_style.css">
+  </head>
+
+<body>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a class="navbar-brand" href="landing_page.html">Lattitude</a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <form class="navbar-form navbar-left">
+        </form>
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Plots <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="C:\Users\LT\Desktop\temp.png">Max Temperature</a></li>
+              <li><a href="C:\Users\LT\Desktop\wind.png">Wind Speed</a></li>
+              <li><a href="C:\Users\LT\Desktop\humid.png">Humidity</a></li>
+              <li><a href="C:\Users\LT\Desktop\cloud.png">Cloudiness</a></li>
+            </ul>
+          </li>
+          <li><a href="comparison_page.html">Comparison</a></li>
+          <li><a href="data_page.html">Data</a></li>
+        </ul>
+      </div>
+	  <div class="container container-body">
+		<div class="landing_page_left col-md-12 col-sm-12">
+			<h1 class="head-label">Comparison: Latitude vs. X</h1>
+			<div>
+			<p>Click any plot to get an in-depth analysis</p}
+			</div>
+			<class="row">
+				<div class="col-md-6 col-sm-12">
+					<h2 class="head-label" align="center">Vs. Max Temperature</h2>
+					<a href="temp.html">
+					<img src="https://raw.githubusercontent.com/LawrenceTsaiLT/Data-Analytics-Course/master/Python%20API%20HW/Temp%20vs%20Lat.png" alt="..." width="540" height="360">
+					</a>
+				</div>
+					<div class="col-md-6 col-sm-12">
+					<h2 class="head-label" align="center">Vs. Humidity</h2>
+					<a href="humid.html">
+					<img src="https://raw.githubusercontent.com/LawrenceTsaiLT/Data-Analytics-Course/master/Python%20API%20HW/Humidity%20vs%20Lat.png" alt="..." width="540" height="360">
+					</a>
+				</div>
+			<class="row">
+				<div class="col-md-6 col-sm-12">
+					<h2 class="head-label" align="center">Vs. Cloudiness</h2>
+					<a href="cloud.html">
+					<img src="https://raw.githubusercontent.com/LawrenceTsaiLT/Data-Analytics-Course/master/Python%20API%20HW/Cloudiness%20vs%20Lat.png" alt="..." width="540" height="360">
+					</a>
+				</div>
+					<div class="col-md-6 col-sm-12">
+					<h2 class="head-label" align="center">Vs. Wind Speed</h2>
+					<a href="wind.html">
+					<img src="https://raw.githubusercontent.com/LawrenceTsaiLT/Data-Analytics-Course/master/Python%20API%20HW/Wind%20Speed%20vs%20Lat.png" alt="..." width="540" height="360">
+					</a>
+					</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
